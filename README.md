@@ -88,7 +88,7 @@ An interactive WebGIS analyzing 2025 satellite observation baselines across Delh
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajKumarcodes&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=NeerajKumarcodes&theme=dracula&hide_border=true" height="150" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeerajKumarcodes&theme=dracula&hide_border=true" height="150" alt="streak graph" />
 </div>
 
 <br />
