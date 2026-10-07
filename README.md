@@ -4,7 +4,7 @@
   <p><b>M.Tech Geoinformatics @ Delhi Technological University (DTU)</b> • <b>Ex-NIT Rourkela</b></p>
 
   <p>
-    <a href="https://www.linkedin.com/in/maineerajhu/" target="_blank">
+    <a href="https://www.linkedin.com/in/neeraj-kumar-4a01a743b/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:neerajkumar171001@gmail.com">
