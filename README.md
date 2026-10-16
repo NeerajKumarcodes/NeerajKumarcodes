@@ -29,12 +29,20 @@ I bridge the gap between **Geospatial Science, Earth Observation, and Modern Ful
 
 ---
 
-### 🌟 Featured Project
+### 🌟 Featured Projects
 
-#### [🌡️ Urban Heat & Green Cover Monitoring WebGIS (Delhi, India)](https://github.com/NeerajKumarcodes/delhi-urban-heat-webgis)
-An interactive WebGIS analyzing 2025 satellite observation baselines across Delhi, integrating 10m Sentinel-2 NDVI and 30m Landsat-8 Land Surface Temperature (LST) with dynamic 90th-percentile hotspot extraction and Pearson correlation analysis.
+#### 🏢 [AI-Based Building Extraction from Aerial Imagery | GeoAI](https://github.com/NeerajKumarcodes/computer-vision-satellite-imagery)
 
-- **Stack:** Google Earth Engine REST API, Next.js, TypeScript, React, Leaflet, Tailwind CSS.
+An end-to-end GeoAI project using PyTorch and U-Net for building segmentation from aerial imagery. Trained and evaluated the model using the WHU Building Dataset, achieving a **Dice score of 89.50%** and **IoU of 80.99%** on 2,416 held-out test images. Includes an interactive Streamlit application for segmentation visualization, polygon extraction, and GeoJSON/GeoTIFF export for GIS workflows.
+
+- **Stack:** Python, PyTorch, U-Net, OpenCV, Rasterio, GeoPandas, Streamlit.
+- 🔗 **[View Repository](https://github.com/NeerajKumarcodes/computer-vision-satellite-imagery)**
+
+#### 🌡️ [Urban Heat & Green Cover Monitoring WebGIS (Delhi, India)](https://github.com/NeerajKumarcodes/delhi-urban-heat-webgis)
+
+An interactive WebGIS analyzing satellite observations across Delhi using **10 m Sentinel-2 NDVI** and **30 m Landsat 8 Land Surface Temperature (LST)**. Implements 90th-percentile heat hotspot extraction and Pearson correlation analysis to explore the relationship between vegetation greenness and land surface temperature.
+
+- **Stack:** Google Earth Engine, Next.js, TypeScript, React, Leaflet, Tailwind CSS.
 - 🔗 **[Explore Live Application](https://delhi-urban-heat-webgis.vercel.app/)** | 💻 **[View Repository](https://github.com/NeerajKumarcodes/delhi-urban-heat-webgis)**
 
 ---
